@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262449701889",
+    "project_id": "pachub-39949",
+    "storage_bucket": "pachub-39949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262449701889:android:92855040ec6507faf54c00",
+        "android_client_info": {
+          "package_name": "com.example.pachub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262449701889-rl40s1e9qaf21o7kjj68kpvkvj83om39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAom4EmyDSQvdd-E3GH7rsfLEsCzYekg-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262449701889-rl40s1e9qaf21o7kjj68kpvkvj83om39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
